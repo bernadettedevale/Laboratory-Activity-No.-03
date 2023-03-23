@@ -1,4 +1,4 @@
-# Lab Activity No. 03_De Vale
+# Laboratory Activity No. 03_De Vale
 
 Laboratory-Activity-No.-03
 
